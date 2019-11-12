@@ -1,6 +1,18 @@
 # photoshop-major
 Log for my major photoshop schedule.
 
+## 色彩
+
+### 色光三原色和 RGB 色彩模型
+RGB模式是以色光三原色为基础建立的色彩模式。
+
+### 色料三原色和 CMYK 色彩模型
+CMYK是一种依靠反光的色彩模式。
+
+### 参考资料
+[色彩原理解析：其实我们生活在一个“无色”的世界里](https://zhuanlan.zhihu.com/p/53547719)      
+
+
 ## Photoshop 主要知识点
 
 ### 图层
