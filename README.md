@@ -1,5 +1,4 @@
-# photoshop-major
-Log for my major photoshop schedule.
+# photoshop 主修及设计相关知识的充电。
 
 ## 色彩
 
