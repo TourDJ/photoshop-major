@@ -1,4 +1,4 @@
-<table><tr><td bgcolor=#7FFFD4>这里的背景色是：Aquamarine，  十六进制颜色值：#7FFFD4， rgb(127, 255, 212)</td></tr></table>
+<table><tr><td bgcolor="#7FFFD4">这里的背景色是：Aquamarine，  十六进制颜色值：#7FFFD4， rgb(127, 255, 212)</td></tr></table>
 #### 红(RED)
 |||
 品红、洋红Magenta（热情）
